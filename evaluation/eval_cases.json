@@ -1,0 +1,23 @@
+[
+  {
+    "case_id": "qlora-001",
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "category": "Electronics",
+    "reference_price": 348.0,
+    "expect_ood_fallback": false
+  },
+  {
+    "case_id": "qlora-002",
+    "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6Qt",
+    "category": "Home & Kitchen",
+    "reference_price": 89.99,
+    "expect_ood_fallback": false
+  },
+  {
+    "case_id": "qlora-003",
+    "title": "Unrecognized Industrial Hydraulic Valve Assembly",
+    "category": "Unknown_OOD",
+    "reference_price": 0.0,
+    "expect_ood_fallback": true
+  }
+]
